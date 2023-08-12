@@ -30,7 +30,7 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     '8000-freedy-fr-djangoblogf-leh2eksb9q.us2.codeanyapp.com', 'freedy-djangoblog.herokuapp.com', 'freedy-djangoblog-7d3071af2442.herokuapp.com', 'localhost']
