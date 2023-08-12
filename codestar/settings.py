@@ -33,7 +33,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    '8000-freedy-fr-djangoblogf-leh2eksb9q.us2.codeanyapp.com', 'freedy-djangoblog.herokuapp.com', 'freedy-djangoblog-7d3071af2442.herokuapp.com', 'localhost']
+    '8000-freedy-fr-djangoblogf-leh2eksb9q.us2.codeanyapp.com', 'freedy-djangoblog.herokuapp.com', 'https://freedy-djangoblog-7d3071af2442.herokuapp.com', 'localhost']
 
 
 # Application definition
